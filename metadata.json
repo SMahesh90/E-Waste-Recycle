@@ -1,0 +1,7 @@
+{
+  "name": "EcoCycle - Municipal E-Waste Platform",
+  "description": "A comprehensive circular economy platform for citizens, municipalities, and recyclers to track, manage, and recover value from e-waste using Digital Product Passports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
